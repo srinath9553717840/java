@@ -1,0 +1,14 @@
+<web-app>
+
+<servlet>
+       <servlet-name>xml</servlet-name>
+       <servlet-class>com.nt.beans.ExcelServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+     <servlet-name>xml</servlet-name>
+     <url-mapping>/xmurl</url-mapping>
+</servlet-mapping>
+
+
+</web-app>

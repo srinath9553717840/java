@@ -1,0 +1,24 @@
+
+<web-app>
+
+<servlet>
+      <servlet-name>servlet</servlet-name>
+      <servlet-class>com.nt.beans.FirstServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+          <servlet-name>servlet</servlet-name>
+          <url-pattern>/servleturl</url-pattern>
+</servlet-mapping>
+
+<servlet>
+      <servlet-name>servlet2</servlet-name>
+      <servlet-class>com.nt.beans.SecondServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+           <servlet-name>servlet2</servlet-name>
+           <url-pattern>/servleturl2</url-pattern>
+</servlet-mapping>
+
+</web-app>

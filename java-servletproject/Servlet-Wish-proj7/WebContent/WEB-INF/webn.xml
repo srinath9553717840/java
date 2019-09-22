@@ -1,0 +1,15 @@
+
+
+<web-app>
+
+<servlet>
+       <servlet-name>wish</servlet-name>
+       <servlet-class>com.nt.beans.WishServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>wish</servlet-name>
+    <url-pattern>/wishurl</url-pattern>
+</servlet-mapping>
+
+</web-app>

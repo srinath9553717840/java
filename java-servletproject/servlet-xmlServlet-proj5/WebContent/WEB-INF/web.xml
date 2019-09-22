@@ -1,0 +1,16 @@
+<web-app>
+
+<servlet>
+     <servlet-name>excel</servlet-name>
+     <servlet-class>com.nt.beans.XmlServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+        <servlet-name>excel</servlet-name>
+        <url-pattern>/xmlurl</url-pattern>
+</servlet-mapping>
+
+
+
+
+</web-app>

@@ -1,0 +1,24 @@
+<body>
+
+<from action="save" method="post">
+
+<table>
+
+<tr>
+<td><table for="user-name">User-name</table></td>
+<td><input type="text" name="name"></input></td>
+</tr>
+
+<tr>
+<td><table for="email">Email</table></td>
+<td><input type="text" name="email"></input></td>
+</tr>
+
+<tr>
+<td></td>
+<td><input type="submit" value="submit"></input></td>
+</tr>
+
+</table>
+</from>
+</body>

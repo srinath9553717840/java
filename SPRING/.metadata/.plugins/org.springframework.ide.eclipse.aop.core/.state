@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="proj4-mvcSearchApp2"/>
+<aop-project name="proj2-mvcSecondWeb"/>
+<aop-project name="proj3-mvcWishApp"/>
+<aop-project name="proj4-mvcSearchApp"/>
+</aop-reference-model>

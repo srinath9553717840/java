@@ -1,0 +1,19 @@
+package com.javatpoint;
+
+public class User {
+	String name;  
+    String email;  
+    public String getName() {  
+        returnname;  
+    }  
+    public void setName(String name) {  
+        this.name = name;  
+    }  
+    public String getEmail() {  
+        returnemail;  
+    }  
+    public void setEmail(String email) {  
+        this.email = email;  
+    }  
+
+}

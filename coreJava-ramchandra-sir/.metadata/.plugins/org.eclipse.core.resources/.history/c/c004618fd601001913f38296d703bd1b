@@ -1,0 +1,21 @@
+package com.nt.beans;
+
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+public class Emp {
+	
+public static void main(String[] args){
+
+	
+	ArrayList<Integer> Numbers=new ArrayList<Integer>();
+	
+	Numbers.add(11);
+	Numbers.add(21);
+	Numbers.add(31);
+	Numbers.add(41);
+	
+	
+}
+}

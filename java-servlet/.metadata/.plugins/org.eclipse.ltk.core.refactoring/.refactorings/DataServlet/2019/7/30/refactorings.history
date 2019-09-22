@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;come.nt.servlet&apos; to &apos;Servlet/src&apos;&#x0D;&#x0A;- Original project: &apos;DataServlet&apos;&#x0D;&#x0A;- Destination element: &apos;Servlet/src&apos;&#x0D;&#x0A;- Original element: &apos;DataServlet/src/come.nt.servlet&apos;" description="Copy package" destination="=Servlet/src" element1="/src&lt;come.nt.servlet" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1564166025820" version="1.0"/>
+</session>

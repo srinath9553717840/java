@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+E:\WORKSPACES\spri\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3289287724.index

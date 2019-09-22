@@ -1,0 +1,17 @@
+<body>
+
+<from action="save" method="post">
+
+<tr>
+<td><label for="user-name">User-name</label></td>
+<td><input type="text" name="name"></input></td>
+</tr>
+
+<tr>
+<td><label for="email">Email</label></td>
+<td><input type="text" name="email"></input></td>
+</tr>
+
+</from>
+</body>
+

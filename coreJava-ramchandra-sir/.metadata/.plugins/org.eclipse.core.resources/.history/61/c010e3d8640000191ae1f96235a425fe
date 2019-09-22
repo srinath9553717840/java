@@ -1,0 +1,22 @@
+package com.nt.beans;
+
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+public class Emp {
+	
+public static void main(String[] args){
+	
+    ArrayList<Integer> number=new ArrayList<Integer>();
+    
+    number.add(12);
+    number.add(13);
+    number.add(14);
+    number.add(15);
+    number.add(16);
+    
+    number.forEach(n);
+	
+		
+	}}

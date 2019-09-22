@@ -1,0 +1,14 @@
+package com.nt.beans1;
+
+public class ArrayList {
+
+	
+	public static void main(String[] args) {
+		Student s1=new Student(101,"kumar",10);
+		Student s2=new Student(102,"varun",12);
+		Student s3=new Student(103, "manoj",13);
+		
+	}
+	
+	ArrayList<Student>al=new ArrayList<String>();
+}

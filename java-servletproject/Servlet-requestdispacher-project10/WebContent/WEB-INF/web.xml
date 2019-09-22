@@ -1,0 +1,25 @@
+
+<web-app>
+
+<servlet>
+      <servlet-name>login</servlet-name>
+      <servlet-class>com.nt.beans.Login</servlet-class>
+</servlet>
+
+<servlet-mapping>
+           <servlet-name>login</servlet-name>
+           <url-pattern>/loginurl</url-pattern>
+</servlet-mapping>
+
+<servlet>
+      <servlet-name>welcome</servlet-name>
+      <servlet-class>com.nt.beans.WelcomeServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+           <servlet-name>welcome</servlet-name>
+           <url-pattern>/welcomeurl</url-pattern>
+</servlet-mapping>
+
+
+</web-app>

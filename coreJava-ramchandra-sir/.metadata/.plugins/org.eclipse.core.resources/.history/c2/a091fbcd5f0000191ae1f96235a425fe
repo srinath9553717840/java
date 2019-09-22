@@ -1,0 +1,31 @@
+package com.nt.beans;
+
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+
+public class Emp {
+	
+public static void main(String[] args) {
+	ArrayList<String> list=new ArrayList<String> ();
+
+	list.add("srinath");
+	list.add("srikanth");
+	list.add("sridhar");
+	list.add("sriram");
+	list.add("sruthi");
+	
+	
+System.out.println(list.forEach("srinath"));
+System.out.println();
+
+Iterator itr=list.iterator();
+
+while (itr.hasNext()) {
+	System.out.println(itr.next());
+}
+
+	
+}
+}

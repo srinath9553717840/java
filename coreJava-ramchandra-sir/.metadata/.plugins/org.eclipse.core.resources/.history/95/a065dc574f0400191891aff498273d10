@@ -1,0 +1,9 @@
+package com.nt.beans;
+
+public class Inner {
+
+	void msg() {
+		System.out.println("data is"+data);
+	}
+	
+}

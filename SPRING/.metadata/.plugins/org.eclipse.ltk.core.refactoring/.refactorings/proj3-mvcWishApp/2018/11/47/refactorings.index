@@ -1,0 +1,20 @@
+1542712471098	Rename type 'Service'
+1542714119683	Rename package 'com.nt.controller'
+1542714133263	Delete element
+1542714141516	Delete element
+1542714158636	Rename package 'com.nt.service'
+1542716406621	Rename type 'ListEmpBo'
+1542718446051	Delete elements
+1542719683604	Delete element
+1542722612363	Delete element
+1542722740381	Copy file
+1542722743965	Delete element
+1542780784652	Delete element
+1542780996311	Rename resource 'lisat_emps.jsp'
+1542781333520	Delete element
+1542784478793	Delete element
+1542785189371	Rename resource 'web.xml'
+1542786019961	Rename resource 'myconfig.xml'
+1542806444550	Copy file
+1542865917247	Copy file
+1542884731662	Move 'service-bean.xml' to 'src'

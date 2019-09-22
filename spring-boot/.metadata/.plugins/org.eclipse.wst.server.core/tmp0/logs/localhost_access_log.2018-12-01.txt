@@ -1,0 +1,8 @@
+127.0.0.1 - - [01/Dec/2018:11:22:16 +0530] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [01/Dec/2018:11:29:12 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [01/Dec/2018:11:29:17 +0530] "GET /demo-1/ HTTP/1.1" 200 40
+127.0.0.1 - - [01/Dec/2018:15:22:08 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [01/Dec/2018:15:22:13 +0530] "GET /spring-boot-web-jsp/ HTTP/1.1" 200 1053
+0:0:0:0:0:0:0:1 - - [01/Dec/2018:15:22:14 +0530] "GET /spring-boot-web-jsp/webjars/bootstrap/3.3.7/js/bootstrap.min.js HTTP/1.1" 200 37045
+0:0:0:0:0:0:0:1 - - [01/Dec/2018:15:22:14 +0530] "GET /spring-boot-web-jsp/webjars/bootstrap/3.3.7/css/bootstrap.min.css HTTP/1.1" 200 121200
+0:0:0:0:0:0:0:1 - - [01/Dec/2018:15:22:14 +0530] "GET /spring-boot-web-jsp/css/main.css;jsessionid=30CAC6C942E97C1E4D6512D8A6D18721 HTTP/1.1" 200 50

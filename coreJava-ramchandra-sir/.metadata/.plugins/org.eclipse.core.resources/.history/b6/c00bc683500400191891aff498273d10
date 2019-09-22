@@ -1,0 +1,19 @@
+package com.nt.beans;
+
+public class Inner {
+	private int data=30;
+	
+	class Innermethod{
+		
+		
+		void msg() {
+			System.out.println("data is"+data);
+		}
+	}
+	public static void main(String[] args) {
+		Innermethod obj=new Innermethod();
+		Innermethod.Innermethod in=obj.new Innermethod();
+				
+	}
+
+}

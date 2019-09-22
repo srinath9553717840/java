@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+      <servlet-name>coutry</servlet-name>
+      <servlet-class>com.nt.beans.CoutryServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+     <servlet-name>coutry</servlet-name>
+     <url-pattern>/countryurl</url-pattern>
+</servlet-mapping>
+
+</web-app>

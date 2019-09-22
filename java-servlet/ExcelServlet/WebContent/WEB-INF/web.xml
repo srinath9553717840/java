@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>html</servlet-name>
+<servlet-class>com.nt.beans.ExcelServlet</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>html</servlet-name>
+<url-pattern>/hturl</url-pattern>
+</servlet-mapping>
+
+</web-app>

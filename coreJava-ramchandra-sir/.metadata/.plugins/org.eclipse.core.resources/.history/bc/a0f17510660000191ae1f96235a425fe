@@ -1,0 +1,20 @@
+package com.nt.beans;
+
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+public class Emp {
+	
+public static void main(String[] args){
+	
+    ArrayList<String> ar=new ArrayList<>();
+    
+    ar.add("manoj");
+    ar.add("kishore");
+    ar.add("vikram");
+    ar.add("sathish");
+    
+    ar.forEach((a)-> System.out.println(a));
+		
+	}}
